@@ -1,5 +1,6 @@
 # Portugal-Telemarketing
  A Classification Model and Data Analysis of Portugal Bank Telemarketing Dataset
+ Data Source : https://archive.ics.uci.edu/ml/datasets/bank+marketing
 
  ## Problem Statement
 The Campaign is used to get user to open a term deposit, but if the marketing team reaches out to every single user it will cost a lot resources. Therefore to increases it's efectifity the marketing team would like to filter and contact only high percentage user to open a term deposit.
